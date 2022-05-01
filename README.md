@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi my name is Philipp and I have a pashion for programming and other computer science related topics.
 
 <!--
 **PhilippOesch/PhilippOesch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
