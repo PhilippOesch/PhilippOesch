@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/POeschger)
 [<img align="left" alt="my-website" src="https://img.shields.io/badge/-My%20Website-lightgrey?style=for-the-badge" />](https://philipp-oeschger.de/Hauptseite)<br>
 
+
 ## Expertise
 
 <img align="left" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -42,9 +43,10 @@ Here are some ideas to get you started:
 <img align="left" alt="kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
 <br><br>
 
+
 ## My GitHub Stats
 
 ![Philipp's GitHub stats](https://github-readme-stats.vercel.app/api?username=PhilippOesch&theme=tokyonight&hide=stars,prs&show_icons=true)
-![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PhilippOesch&exclude_repo=github-readme-stats,PhilippOesch.github.io&theme=tokyonight&langs_count=6&layout=compact)
+![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PhilippOesch&exclude_repo=github-readme-stats,PhilippOesch.github.io&theme=tokyonight&langs_count=4&layout=compact)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PhilippOesch)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PhilippOesch&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
