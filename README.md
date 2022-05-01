@@ -21,15 +21,17 @@ Here are some ideas to get you started:
 
 - :earth_africa: I'm living in Furtwangen, which is near Freiburg.
 - :mortar_board: I am currently pursuing my master's degree in computer science at [HFU](https://www.hs-furtwangen.de/).
-- :rocket: I am currently working on an ai for card game named cego.
+- 🔭 I am currently working on an ai for card game named cego. Im using [RLCard](https://github.com/datamllab/rlcard) for that.
 - :envelope: You can contact me under kontakt@philipp-oeschger.de.
+- 👨‍💻 All of my projects are available at https://philipp-oeschger.de/Hauptseite
+- 🌱 I’m currently learning [Vue.js](https://vuejs.org/), [Vite](https://vitejs.dev/), [PyTorch](https://pytorch.org/)
 
 ## Connect with me
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/philipp-oeschger/)
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/POeschger)
-[<img align="left" alt="my-website" src="https://img.shields.io/badge/-My%20Website-lightgrey?style=for-the-badge" />](https://philipp-oeschger.de/Hauptseite)<br><br>
 
+<br>
 
 ## Expertise
 
