@@ -47,4 +47,4 @@ Here are some ideas to get you started:
 ![Philipp's GitHub stats](https://github-readme-stats.vercel.app/api?username=PhilippOesch&theme=tokyonight&hide=stars,prs&show_icons=true)
 ![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PhilippOesch&exclude_repo=github-readme-stats,PhilippOesch.github.io&theme=tokyonight&langs_count=6&layout=compact)
 
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dark_dimmed
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PhilippOesch)](https://git.io/streak-stats)
