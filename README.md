@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/philipp-oeschger/)
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/POeschger)
-[<img align="left" alt="my-website" src="https://img.shields.io/badge/-My%20Website-lightgrey?style=for-the-badge" />](https://philipp-oeschger.de/Hauptseite)<br>
+[<img align="left" alt="my-website" src="https://img.shields.io/badge/-My%20Website-lightgrey?style=for-the-badge" />](https://philipp-oeschger.de/Hauptseite)<br><br>
 
 
 ## Expertise
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 <img align="left" alt="kotlin" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 <img align="left" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 <img align="left" alt="kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
-<br><br>
+<br><br><br>
 
 
 ## My GitHub Stats
