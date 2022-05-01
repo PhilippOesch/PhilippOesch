@@ -40,3 +40,11 @@ Here are some ideas to get you started:
 <img align="left" alt="kotlin" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 <img align="left" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 <img align="left" alt="kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
+<br><br>
+
+## My GitHub Stats
+
+![Philipp's GitHub stats](https://github-readme-stats.vercel.app/api?username=PhilippOesch&theme=tokyonight&hide=stars,prs&show_icons=true)
+![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PhilippOesch&exclude_repo=github-readme-stats,PhilippOesch.github.io&theme=tokyonight&langs_count=6&layout=compact)
+
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dark_dimmed
