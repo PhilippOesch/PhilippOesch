@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 - :envelope: You can contact me under kontakt@philipp-oeschger.de.
 - 👨‍💻 All of my projects are available at https://philipp-oeschger.de/Hauptseite
 - 🌱 I’m currently learning [Vue.js](https://vuejs.org/), [Vite](https://vitejs.dev/), [PyTorch](https://pytorch.org/)
+- 📄 Know about my [experiences]()
 
 ## Connect with me
 
