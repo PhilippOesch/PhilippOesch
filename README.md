@@ -1,4 +1,6 @@
-### Hi my name is Philipp and I have a pashion for programming and other computer science related topics.
+# Hi my name is Philipp
+
+I have a passion for programming and other computer science topics. I have been programming now for about 4 years now. My expertise lies in web technologies, especially TypeScript and JavaScript. Lately, I have also been exploring machine learning topics with Python and Tensorflow. In general, I love learning new things.
 
 <!--
 **PhilippOesch/PhilippOesch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Information about me
+
+- :earth_africa: I live near Freiburg.
+- :mortar_board: I am currently pursuing my master's degree in computer science at [HFU](https://www.hs-furtwangen.de/).
+- :rocket: I am currently working on an ai for card game named cego.
