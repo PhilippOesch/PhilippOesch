@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - :mortar_board: I am currently pursuing my master's degree in computer science at [HFU](https://www.hs-furtwangen.de/).
 - 🔭 I am currently working on an ai for card game named cego. Im using [RLCard](https://github.com/datamllab/rlcard) for that.
 - :envelope: You can contact me under kontakt@philipp-oeschger.de.
-- 👨‍💻 All of my projects are available at https://philipp-oeschger.de/Hauptseite
+- 👨‍💻 All of my projects are available at https://philipp-oeschger.de/
 - 🌱 I’m currently learning [Vue.js](https://vuejs.org/), [Vite](https://vitejs.dev/), [PyTorch](https://pytorch.org/)
 - 📄 Know about my [experiences](https://github.com/PhilippOesch/PhilippOesch/blob/main/resume/cv_philipp_oeschger.pdf)
 
